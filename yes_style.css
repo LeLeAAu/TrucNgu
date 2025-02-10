@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 1;
+    background-color: #e0e1dd;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    flex-direction: column;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 3em;
+    color: #627e9e;
+}
+
+.image img {
+    width: 200%; 
+    max-width: 500px; 
+    height: auto; 
+}
