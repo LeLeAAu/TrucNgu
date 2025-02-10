@@ -8,20 +8,16 @@ body {
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
     flex-direction: column;
   }
-  
   .container {
     text-align: center;
   }
-  
   h1 {
     font-size: 2.5em;
     color: #627e9e;
   }
-  
   .buttons {
     margin-top: 20px;
   }
-  
   .yes-button {
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
     font-size: 1.25em;
@@ -33,7 +29,6 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
-  
   .no-button {
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
     font-size: 1.25em;
@@ -44,7 +39,6 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
-  
   .image img {
     max-width: 300%;
     height: auto;
