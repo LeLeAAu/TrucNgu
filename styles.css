@@ -41,7 +41,7 @@ body {
     cursor: pointer;
   }
   .image img {
-    max-width: 300%;
+    max-width: 100%;
     height: auto;
     border-radius: 20px;
     margin-top: 40px;
