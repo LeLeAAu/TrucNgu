@@ -1,8 +1,4 @@
-function render() {
-  uniforms.u_time.value += 0.01;
-  uniforms.u_time.value = uniforms.u_time.value % 1000000;
-  renderer.render( scene, camera );
-}
+
 const messages = [
     "Đùa thôi đúng k 🥹",
     "Thằng cụ nhà mày",
