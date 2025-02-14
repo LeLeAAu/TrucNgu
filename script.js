@@ -1,6 +1,3 @@
-
-}
-
 function render() {
   uniforms.u_time.value += 0.01;
   uniforms.u_time.value = uniforms.u_time.value % 1000000;
